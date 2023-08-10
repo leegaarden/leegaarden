@@ -5,7 +5,7 @@
 <hr>
  <p>🌱 I’m currently learning Backend.</p>
  <p>📫 How to reach me: ...</p> 
-<a href="https://blog.naver.com/twogardening" target="_blank"><img src="https://img.shields.io/badge/-Nblog-1877f2?logo=Nblog&logoColor=white"/></a>
+<a href="https://blog.naver.com/twogardening" target="_blank"><img src="https://img.shields.io/badge/-Nblog-1877f2?logo=#03C75A&logoColor=white"/></a>
 
 
 - 🔭 I’m currently working on ...
