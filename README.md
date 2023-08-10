@@ -1,7 +1,7 @@
 <div align=center><h1>👋 Hi ~ This is Garden's Git   '0' </h1></div>
- 
+ https://github.com/zwei1garden
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwei1garden)
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a>                        
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=(https://github.com/zwei1garden)&count_bg=%2300BFF8&title_bg=%235B5D5E&icon=&icon_color=%2300BFF8&title=hits&edge_flat=true"/></a>                        
 
 <hr>
  <p>🌱 I’m currently learning Backend.</p>
