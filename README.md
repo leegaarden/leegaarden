@@ -13,6 +13,7 @@
 <br>
 <a href="https://www.linkedin.com/in/jeong-won-lee-" target="_blank"><img src="https://img.shields.io/badge/-Linked in-0A66C2?style=flat-square&logo=#0A66C2&logoColor=white"/></a>
 <br>
+<br>
 <p>🔭 things i've done: ...</p>
 
 <p>2021.06: Coding Specialist Professional 2급 (Python) 취득 </p>
