@@ -1,13 +1,12 @@
 <div align=center><h1>👋 Hi ~ This is Garden's Git   '0' </h1></div>
- https://github.com/zwei1garden
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwei1garden)
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=(https://github.com/zwei1garden)&count_bg=%2300BFF8&title_bg=%235B5D5E&icon=&icon_color=%2300BFF8&title=hits&edge_flat=true"/></a>                        
 
 <hr>
  <p>🌱 I’m currently learning Backend.</p>
  <p>📫 How to reach me: ...</p> 
+<a href="https://blog.naver.com/twogardening" target="_blank"><img src="https://img.shields.io/badge/-Nblog-1877f2?logo=Nblog&logoColor=white"/></a>
 
- ![Nblog Badge](https://img.shields.io/badge/-Nblog-1877f2?logo=Nblog&logoColor=white&link={https://blog.naver.com/twogardening})
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
