@@ -11,15 +11,38 @@
 <br>
 <a href="mailto:dlwjddnjs081723@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
 <br>
-<a href="https://www.linkedin.com/in/jeong-won-lee-" target="_blank"><img src="https://img.shields.io/badge/-Linked in-0A66C2?style=flat-square&logo=#0A66C2&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jeong-won-lee-835b2b281/" target="_blank"><img src="https://img.shields.io/badge/-Linked in-0A66C2?style=flat-square&logo=#0A66C2&logoColor=white"/></a>
 <br>
 <br>
 <p>🔭 things i've done: ...</p>
 
-<p>2021.06: Coding Specialist Professional 2급 (Python) 취득 </p>
-<p>2021.05 - 2021.06: 요가 학 앱 개발 </p>
-<p>2021.05 - 2021.06: 요가 학 웹 페이지 개발 </p>
-<p>2021.05 - 2021.06: 성적 처리 계산기 프로젝트 진행 (Python)</p>
+2023.06 - 2023.08: SWU 황 준 교수님 JAVA 스터디 참여
+<br>
+2023.06 - 2023.07: SWU GURU 개인 장려상 수상
+<br>
+2023.07: PCCE 취득 (Python)
+<br>
+2023.06 - 2023.07: SWU GURU(1)
+<br>
+2023.05 - 2023.06: Restaurant Program using JAVA 개발
+<br>
+2023.03 - 2023.06: JAVA 튜터링 참여
+<br>
+2023.03 - 2023.05: JAVA 스터디 참여
+<br>
+2023.02: PCCE 취득 (Python)
+<br>
+2022.12 - 2023.01: SWU GURU
+<br>
+2022.11 - 2022.12: 인스타그램 웹사이트 제작
+<br>
+2022.06: Coding Specialist Professional 2급 (Python) 취득 
+<br>
+2022.05 - 2022.06: 요가 학원 앱 개발
+<br>
+2022.05 - 2022.06: 요가 학원 웹 페이지 제작
+<br>
+2022.05 - 2022.06: 성적 처리 계산기 프로젝트 진행 (Python)
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
