@@ -6,8 +6,8 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzwei1garden&count_bg=%2300CAFA&title_bg=%23A2A2A2&icon=fandom.svg&icon_color=%2300CAFA&title=hits&edge_flat=true"/></a>
 
 <hr>
- <p>🌱 I’m currently learning Backend.</p>
- <p>🤔 I’m interested in DevOps, Backend Developer .. .</p>
+ <p>🌱 I learn something related to software.</p>
+ <p>🤔 I’m recently interested in DevOps, Backend Developer ...</p>
  <p>📫 How to reach me: ...</p> 
 <a href="https://blog.naver.com/twogardening" target="_blank"><img src="https://img.shields.io/badge/-BLOG-2DB400?style=flat-square&logo=#03C75A&logoColor=white"/></a>
 <br>
@@ -20,7 +20,7 @@
 
 2023.06 - 2023.08: SWU 황 준 교수님 JAVA 스터디 참여
 <br>
-2023.06 - 2023.07: SWU GURU 개인 장려상 수상
+2023.06 - 2023.07: SWU GURU 해커톤 개인부문 장려상 수상
 <br>
 2023.07: PCCE 취득 (Python)
 <br>
