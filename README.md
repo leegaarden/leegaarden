@@ -1,4 +1,4 @@
-<div align=center><h1>🎀 반갑습니다. 청정원의 Github입니다. 🎀</h1></div>
+<div align=center><h1>🎀 반갑습니다. 이정원의 Github입니다. 🎀</h1></div>
 
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwei1garden&langs_count=10)](https://github.com/zwei1garden/zwei1garden)
 <br>
