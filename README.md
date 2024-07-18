@@ -1,6 +1,6 @@
 <div align=center><h1> 반갑습니다. 이정원의 Github입니다. </h1></div>
 
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwei1garden&langs_count=10)](https://github.com/zwei1garden/zwei1garden)
+<!--﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwei1garden&langs_count=10)](https://github.com/zwei1garden/zwei1garden) -->
 <br>
 <!--![Lee Jeong Won's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwei1garden&show_icons=true&theme=tokyonight)-->
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzwei1garden&count_bg=%2300CAFA&title_bg=%23A2A2A2&icon=fandom.svg&icon_color=%2300CAFA&title=hits&edge_flat=true"/></a>
