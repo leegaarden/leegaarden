@@ -16,6 +16,7 @@
 <a href="https://www.linkedin.com/in/jeong-won-lee-835b2b281/" target="_blank"><img src="https://img.shields.io/badge/-Linked in-0A66C2?style=flat-square&logo=#0A66C2&logoColor=white"/></a>
 <br>
 <br>
+<!--
 <p>🏃 저는 지금까지... </p>
 
 
@@ -52,6 +53,7 @@
 2022.05 - 2022.06: 요가 학원 웹 페이지 제작
 <br>
 2022.05 - 2022.06: 성적 처리 계산기 프로젝트 진행 (Python)
+-->
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
