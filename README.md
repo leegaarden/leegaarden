@@ -8,6 +8,7 @@
 <hr>
  <p>🖥 현재 소프트웨어융합을 전공하고 있습니다. </p>
  <p>💭 DevOps, Backend Developer ...에 관심이 있습니다. </p>
+ <!--
  <p>💗 혹시 제가 궁금하다면... </p> 
 <a href="https://blog.naver.com/twogardening" target="_blank"><img src="https://img.shields.io/badge/-BLOG-2DB400?style=flat-square&logo=#03C75A&logoColor=white"/></a>
 <br>
@@ -16,7 +17,7 @@
 <a href="https://www.linkedin.com/in/jeong-won-lee-835b2b281/" target="_blank"><img src="https://img.shields.io/badge/-Linked in-0A66C2?style=flat-square&logo=#0A66C2&logoColor=white"/></a>
 <br>
 <br>
-<!--
+
 <p>🏃 저는 지금까지... </p>
 
 
