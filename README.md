@@ -1,23 +1,28 @@
-<div align=center><h1> 반갑습니다. 이정원의 Github입니다. </h1></div>
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=ffb02e&height=120&text=Leegarden's%20GitHub&animation=&fontColor=000000&fontSize=40" />
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🔆 저를 소개합니다 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> <li> 소프트웨어를 전공하고 있습니다. </li>
+     <li> DevOps, Infra, Backend Developer에 관심이 있습니다.  </div> 
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🥔 배우고 있습니다 </h2> <br> 
+    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=plastic&logo=Amazon AWS&logoColor=white">
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white">
+          <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
+          <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
+          <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=Jenkins&logoColor=white">
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
+          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white">
+          <br/></div>
+    </div>
 
-<!--﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwei1garden&langs_count=10)](https://github.com/zwei1garden/zwei1garden) -->
-<br>
-<!--![Lee Jeong Won's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwei1garden&show_icons=true&theme=tokyonight)-->
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzwei1garden&count_bg=%2300CAFA&title_bg=%23A2A2A2&icon=fandom.svg&icon_color=%2300CAFA&title=hits&edge_flat=true"/></a>
 
-<hr>
- <p>🖥 현재 소프트웨어융합을 전공하고 있습니다. </p>
- <p>💭 DevOps, Backend Developer ...에 관심이 있습니다. </p>
- <!--
- <p>💗 혹시 제가 궁금하다면... </p> 
-<a href="https://blog.naver.com/twogardening" target="_blank"><img src="https://img.shields.io/badge/-BLOG-2DB400?style=flat-square&logo=#03C75A&logoColor=white"/></a>
-<br>
-<a href="mailto:dlwjddnjs081723@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
-<br>
-<a href="https://www.linkedin.com/in/jeong-won-lee-835b2b281/" target="_blank"><img src="https://img.shields.io/badge/-Linked in-0A66C2?style=flat-square&logo=#0A66C2&logoColor=white"/></a>
-<br>
-<br>
-
+<!-- 
 <p>🏃 저는 지금까지... </p>
 
 
@@ -56,13 +61,4 @@
 2022.05 - 2022.06: 성적 처리 계산기 프로젝트 진행 (Python)
 -->
 
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 </div>
