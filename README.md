@@ -3,7 +3,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> <li> 소프트웨어를 전공하고 있습니다.</li><li> DevOps, Infra, Backend Developer에 관심이 있습니다.  </div> 
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🥔 배우고 있습니다 </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🥔 공부하고 있습니다 </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=plastic&logo=Amazon AWS&logoColor=white">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white">
           <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
