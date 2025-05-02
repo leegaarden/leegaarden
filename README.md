@@ -1,6 +1,6 @@
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🔆 저를 소개합니다 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> <li> 소프트웨어를 전공하고 있습니다.</li><li> DevOps, Infra, Backend Developer에 관심이 있습니다.  </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> <li> 소프트웨어를 전공했습니다.</li><li> DevOps, Infra, Backend Developer에 관심이 있습니다.  </div> 
     </div>
     <br/> <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🥔 공부하고 있습니다 </h2> <br> 
